@@ -1,27 +1,20 @@
 # Quiet Harbour Publications
 
 **Stories worth carrying. Books worth keeping.**  
-Thoughtfully made, from page to shelf.
+*Thoughtfully made, from page to shelf.*
 
-Quiet Harbour Publications is a publishing imprint focused on thoughtfully made books with care for story, design and the reading experience.
+Quiet Harbour Publications is built around a simple idea: stories deserve careful attention not only in how they are told, but in how they are shaped, presented and carried into the world.
 
 ## The Sun We Carry
 
-**The Sun We Carry: In the Keeping** by **Manish Kumar** is the first title from Quiet Harbour Publications.
+**The Sun We Carry: In the Keeping** by **Manish Kumar** is a warm, reflective work of literary fiction set across the four days of Chhath. Rooted in the cultural landscape of Bihar and written for readers everywhere, it explores memory, identity, tradition and belonging.
 
-Set across the four days of Chhath, this work of literary fiction explores family, memory, tradition, place & belonging and the quiet ways we carry them with us as lives change across generations and borders.
-
-
-## Get the Book
-
-**The Sun We Carry** by Manish Kumar is available in print and digital editions.
+### Get the book
 
 - [Paperback — India · Amazon](https://www.amazon.in/dp/9334529539/)
 - [Kindle eBook — Worldwide · Amazon](https://www.amazon.in/dp/B0HL5P254W)
-- [Apple Books — International](http://books.apple.com/us/book/id6815967290)
+- [Apple Books — International](https://books.apple.com/us/book/id6815967290)
 
-## About this repository
+---
 
-This repository contains the official website of **Quiet Harbour Publications**.
-
-© 2026 Quiet Harbour Publications. All rights reserved.
+© 2026 Quiet Harbour Publications
