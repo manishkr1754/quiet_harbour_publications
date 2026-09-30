@@ -53,3 +53,19 @@ footer{padding-top:30px}
   .meta-main,.meta-isbn{display:block}
   .meta-separator{display:none}
 }
+
+/* V13: robust mobile ISBN layout. Keep bibliographic ISBN on its own line
+   across phone widths, rather than relying on a narrow 430px breakpoint. */
+@media(max-width:700px){
+  .metadata{
+    display:flex;
+    flex-direction:column;
+    align-items:flex-start;
+    gap:5px;
+    line-height:1.45!important;
+    letter-spacing:.12em;
+  }
+  .meta-main,.meta-isbn{display:block}
+  .meta-isbn{white-space:nowrap}
+  .meta-separator{display:none}
+}
