@@ -17,9 +17,7 @@ We publish thoughtfully made books with distinctive voices, a strong sense of pl
 - [Kindle eBook — Worldwide · Amazon](https://www.amazon.in/dp/B0HL5P254W)
 - [Apple Books — International](https://books.apple.com/us/book/id6815967290)
 
-## Contact
-
-- Email: [quietharbourpublications@gmail.com](mailto:quietharbourpublications@gmail.com)
+### Social Media
 - Instagram: [@quiet_harbour_publications](https://www.instagram.com/quiet_harbour_publications/)
 
 ---
