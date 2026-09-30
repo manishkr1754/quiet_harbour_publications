@@ -42,3 +42,14 @@ footer{padding-top:30px}
 
 /* V11: mobile ISBN is an intentional second metadata line */
 @media(max-width:430px){.metadata .isbn-separator{display:none}}
+
+
+/* V12: structural metadata layout — never split the ISBN on mobile. */
+.metadata{font:700 10px Arial,sans-serif!important;letter-spacing:.15em;color:var(--muted)!important;margin:0 0 28px!important;line-height:1.55}
+.meta-main,.meta-isbn{display:inline}
+.meta-isbn{white-space:nowrap}
+@media(max-width:430px){
+  .metadata{display:flex;flex-direction:column;align-items:flex-start;gap:5px;line-height:1.45!important;letter-spacing:.12em}
+  .meta-main,.meta-isbn{display:block}
+  .meta-separator{display:none}
+}
