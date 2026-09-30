@@ -9,3 +9,15 @@
 footer{border-top:0;padding-top:30px}
 @media(max-width:700px){.social{padding:46px 20px 50px}.instagram-handle{font-size:18px}}
 @media(max-width:430px){.social{padding:42px 18px 46px}.instagram-handle{font-size:16px;overflow-wrap:anywhere}}
+
+/* V6: Instagram is treated as a visual brand touchpoint, not a separate content section. */
+.social{border-top:1px solid var(--line);padding:34px 28px 36px;text-align:center;background:transparent}
+.instagram-button{width:48px;height:48px;margin:auto;border:1px solid var(--line);border-radius:50%;display:grid;place-items:center;text-decoration:none;color:var(--red);transition:transform .2s ease,border-color .2s ease,background .2s ease}
+.instagram-button:hover{transform:translateY(-2px);border-color:var(--red);background:#fffaf2}
+.instagram-icon{width:21px;height:21px;fill:none;stroke:currentColor;stroke-width:1.7;stroke-linecap:round;stroke-linejoin:round}
+.instagram-dot{fill:currentColor;stroke:none}
+.nav-instagram{width:30px;height:30px;display:grid!important;place-items:center;border:1px solid transparent;border-radius:50%}
+.nav-instagram:hover{border-color:var(--line)}
+.nav-instagram .instagram-icon{width:17px;height:17px}
+footer{padding-top:30px}
+@media(max-width:700px){.social{padding:30px 20px 32px}.instagram-button{width:46px;height:46px}}
