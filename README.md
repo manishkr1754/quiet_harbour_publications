@@ -1,13 +1,24 @@
 # Quiet Harbour Publications
 
-Static website for GitHub Pages.
+**Stories worth carrying. Books worth keeping.**  
+Thoughtfully made, from page to shelf.
 
-## Publish on GitHub Pages
-1. Create a new public GitHub repository (for example `quiet-harbour-publications`).
-2. Upload `index.html`, `style.css`, and the `assets` folder to the repository root.
-3. Open **Settings → Pages**.
-4. Under **Build and deployment**, choose **Deploy from a branch**.
-5. Select `main` and `/ (root)`, then Save.
-6. GitHub will show the live Pages URL after deployment.
+Quiet Harbour Publications is a publishing imprint focused on thoughtfully made books with care for story, design, and the reading experience.
 
-The three book purchase links are already configured in `index.html`.
+## The Sun We Carry
+
+**The Sun We Carry: In the Keeping** by **Manish Kumar** is the first title from Quiet Harbour Publications.
+
+Set across the four days of Chhath, this work of literary fiction explores family, memory, tradition, place, and belonging — and the quiet ways we carry them with us as lives change across generations and borders.
+
+### Available editions
+
+- **Paperback** — India
+- **Kindle eBook** — Worldwide
+- **Apple Books** — International
+
+## About this repository
+
+This repository contains the official website of **Quiet Harbour Publications**.
+
+© 2026 Quiet Harbour Publications. All rights reserved.
